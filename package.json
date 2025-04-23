@@ -1,0 +1,20 @@
+{
+  "name": "ongezeko",
+  "version": "1.0.0",
+  "description": "Repo for basic website to host information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeswaCodes/ongezeko.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeswaCodes/ongezeko/issues"
+  },
+  "homepage": "https://github.com/KeswaCodes/ongezeko#readme"
+}
